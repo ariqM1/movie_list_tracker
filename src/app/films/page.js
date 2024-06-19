@@ -5,3 +5,5 @@ function Films() {
         </div>
     );
 }
+
+export default Films;
